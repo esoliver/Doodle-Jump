@@ -1,4 +1,4 @@
-# Doodle-Jump
+# Doodle-Jump - Followed freeCodeCamp tutorial
 Doodle Jump clone in JavaScript, HTML and CSS
 
 ### MIT Licence
